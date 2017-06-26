@@ -1,0 +1,54 @@
+
+
+.home-left-col
+{
+    height: 80vh;
+    background-color: #c1c1c1;
+}
+
+.home-right-col
+{
+    height: 80vh;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+.home-heading-1
+{
+    margin-bottom: 40px;
+}
+
+.home-cont-about
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.home-col-metod
+{
+    height: 400px;
+    background-color: #c1c1c1;
+}
+
+.home-col-metod-left
+{
+    height: 400px;
+    padding-top: 50px;
+}
+
+.home-heading-2
+{
+    margin-bottom: 40px;
+}
+
+.home-fact
+{
+    height: 400px;
+    background-color: #959595;
+}
+
+.home-col-fact
+{
+    padding-top: 50px;
+}
+
